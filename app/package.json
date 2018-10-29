@@ -1,0 +1,8 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "main": "main",
+  "name": "anon-video-chat-mobile",
+  "version": "1.0.0"
+}
